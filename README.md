@@ -21,7 +21,8 @@ Proyek ini adalah latihan HTML dasar pada mata kuliah Pemrograman Web di Prodi T
 
 Tangkapan layar dari hasil output halaman web:
 
-![Hasil Output](https://github.com/rafiubaydillah53-design/Lab-web/raw/87ad95836a2dfd2172bbf6b7ee53dc1d06d99140/hasil%20output.png)
+![Hasil Output ke-1](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20output%20ke-1.png)
+
 
 ---
 
