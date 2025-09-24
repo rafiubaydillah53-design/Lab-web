@@ -22,7 +22,11 @@ Proyek ini adalah latihan HTML dasar pada mata kuliah Pemrograman Web di Prodi T
 Tangkapan layar dari hasil output halaman web:
 
 ![Hasil Output ke-1](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20output%20ke-1.png)
-
+![Hasil Output ke-2](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20output%20ke-2.png)
+![Hasil Output ke-3](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20output%20ke-3.png)
+![Hasil Output ke-4](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20output%20ke-4.png)
+![Hasil Ouput ke-5](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20ouput%20ke-5.png)
+![Hasil Output ke-6](https://github.com/rafiubaydillah53-design/Lab-web/blob/a73ed39453b12a63e520ce1767852778899bb60c/hasil%20output%20ke-6.png)
 
 ---
 
